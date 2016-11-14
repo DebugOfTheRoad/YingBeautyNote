@@ -114,8 +114,7 @@ CircleImageView
 
 #相关链接
 【QQ：一款高仿腾讯QQ的IM App，已经实现了纯文本，表情，图片，位置，语音等信息的发送以及增，删，查好友等功能,代码质量非常高】[https://github.com/HuTianQi/QQ](https://github.com/HuTianQi/QQ)  
-
-【HQ_QQ：一款高仿腾讯QQ的IM通讯App，界面几乎与腾讯QQ一模一样】 [https://github.com/HuTianQi/HTQ_QQ](https://github.com/HuTianQi/HTQ_QQ)  
+【HQ_QQ：一款高仿腾讯QQ的IM通讯App，界面几乎与腾讯QQ一模一样】 [https://github.com/HuTianQi/HTQ_QQ](https://github.com/HuTianQi/HTQ_QQ)   
 【CoolWeather:一款天气查询App】 [https://github.com/HuTianQi/CoolWeather](https://github.com/HuTianQi/CoolWeather)
 
 
