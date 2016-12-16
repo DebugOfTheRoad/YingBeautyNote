@@ -14,6 +14,15 @@
 ##可扫码直接下载  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/%E6%89%AB%E6%8F%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD_.PNG)  
 
+###觉得不错的话，打赏一个鼓励我继续创作吧
+
+支付宝扫一扫打赏  
+![image](https://github.com/HuTianQi/QQ/blob/master/a.PNG) 
+
+微信扫一扫打赏   
+![image](https://github.com/HuTianQi/QQ/blob/master/wx.PNG)  
+
+
 ##应用截图
 保存草稿界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121625.jpg)
@@ -109,8 +118,15 @@ okHttp
 #Dependence  
 Butter Knife  
 CircleImageView  
-各大App Market下载地址:[腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=com.htq.baidu.com.htq.baidu.coolnote)
+App Market下载地址:[腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=com.htq.baidu.com.htq.baidu.coolnote)
 
+###觉得不错的话，打赏一个鼓励我继续创作吧
+
+支付宝扫一扫打赏  
+![image](https://github.com/HuTianQi/QQ/blob/master/a.PNG) 
+
+微信扫一扫打赏   
+![image](https://github.com/HuTianQi/QQ/blob/master/wx.PNG)  
 
 #相关链接
 【QQ：一款高仿腾讯QQ的IM App，已经实现了纯文本，表情，图片，位置，语音等信息的发送以及增，删，查好友等功能,代码质量非常高】[https://github.com/HuTianQi/QQ](https://github.com/HuTianQi/QQ)  
