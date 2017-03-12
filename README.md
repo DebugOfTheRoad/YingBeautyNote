@@ -21,10 +21,10 @@
 ###觉得不错的话，打赏一个鼓励我继续创作吧
 
 支付宝扫一扫打赏  
-![image](https://github.com/HuTianQi/QQ/blob/master/a.PNG) 
+![image](https://github.com/HuTianQi/QQ/blob/master/a.jpg) 
 
 微信扫一扫打赏   
-![image](https://github.com/HuTianQi/QQ/blob/master/wx.PNG)  
+![image](https://github.com/HuTianQi/QQ/blob/master/wx.png)  
 
 
 ##应用截图
@@ -127,10 +127,10 @@ App Market下载地址:[腾讯应用宝](http://android.myapp.com/myapp/detail.h
 ###觉得不错的话，打赏一个鼓励我继续创作吧
 
 支付宝扫一扫打赏  
-![image](https://github.com/HuTianQi/QQ/blob/master/a.PNG) 
+![image](https://github.com/HuTianQi/QQ/blob/master/a.jpg) 
 
 微信扫一扫打赏   
-![image](https://github.com/HuTianQi/QQ/blob/master/wx.PNG)  
+![image](https://github.com/HuTianQi/QQ/blob/master/wx.png)  
 
 #相关链接
 【QQ：一款高仿腾讯QQ的IM App，已经实现了纯文本，表情，图片，位置，语音等信息的发送以及增，删，查好友等功能,代码质量非常高】[https://github.com/HuTianQi/QQ](https://github.com/HuTianQi/QQ)  
