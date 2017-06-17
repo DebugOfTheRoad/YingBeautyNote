@@ -15,7 +15,7 @@
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/%E6%89%AB%E6%8F%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD_.PNG)  
 
 
-###欢迎大家扫码二维码关注我的微信公众号
+###欢迎大家扫码二维码关注我的微信公众号  
 ![image](https://github.com/HuTianQi/QQ/blob/master/my_wx.jpg) 
 
 ###觉得不错的话，打赏一个鼓励我继续创作吧
